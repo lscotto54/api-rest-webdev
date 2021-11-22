@@ -1,4 +1,4 @@
-# ${1:Version Control for REST APIs}
+# Version Control for REST APIs
 This repository offers the possibility to control version for the REST APIs
 ## REST API
 The REST API is made to manage Database System. Inside that API, it is possible to read information about a selected city, to insert city and its details, to update city's data and to delete city from the table
